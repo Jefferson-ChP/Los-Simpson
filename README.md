@@ -4,7 +4,7 @@ Los Simpson es una serie de televisión animada que fue creada en el año 1989 p
 
 Más información sobre la serie en este enlace: [Wikipedia Los Simpsons](https://es.wikipedia.org/wiki/Los_Simpson)
 
-[Imagen sobre la serie](https://media.admagazine.com/photos/618a696272049e253173eaff/master/w_1600%2Cc_limit/64549.jpg)
+![Imagen sobre la serie](https://media.admagazine.com/photos/618a696272049e253173eaff/master/w_1600%2Cc_limit/64549.jpg)
 
 ## Categorías de la serie
 - Animación
